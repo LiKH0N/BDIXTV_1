@@ -1,0 +1,112 @@
+
+#EXTM3U
+#EXTINF:0, tvg-logo="http://103.13.193.194/img/Star_Sports_Select_1_HD.jpg" STAR SPORT SELECT
+http://103.13.193.194/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:0,ZEE BANGLA HD
+http://103.13.193.194/hls/zeebanglahd.m3u8
+#EXTINF:0,JALSHA MOVIES
+http://103.13.193.194/hls/jalshamovies.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://103.13.193.194/hls/animalplanent.m3u8
+#EXTINF:0,STAR MOVIES
+http://103.13.193.194/hls/starmovies.m3u8
+#EXTINF:0,WILD
+http://103.13.193.194/hls/wild.m3u8
+#EXTINF:0,NEXUS
+http://103.13.193.194/hls/nexus.m3u8
+#EXTINF:0,NGO HD
+http://103.13.193.194/hls/ngohd.m3u8
+#EXTINF:0,COLOR TV HD
+http://103.13.193.194/hls/colore-tv-hd.m3u8
+#EXTINF:0, Sony PIX
+http://103.13.193.194/hls/sonypixhd.m3u8
+#EXTINF:0,MOVIES NOW
+http://103.13.193.194/hls/movies-now.m3u8
+#EXTINF:0, SONY TEN 3
+http://103.13.193.194/hls/sonyten3.m3u8
+#EXTINF:0,STAR SPORTS
+http://103.13.193.194/hls/starsports2.m3u8
+#EXTINF:0,COLOURS BANGLA
+http://103.13.193.194/hls/colorsbangla.m3u8
+#EXTINF:0, DISCOVERY 
+http://103.13.193.194/hls/discovery.m3u8
+#EXTINF:0,SONY TEN 2
+http://103.13.193.194/hls/sonyten2.m3u8
+#EXTINF:0,AND PICTURES
+http://103.13.193.194/hls/andpictures.m3u8
+#EXTINF:0,STARGOLD 
+http://103.13.193.194/hls/stargold.m3u8
+#EXTINF:0,SONYEN 
+http://103.13.193.194/hls/sonyen.m3u8
+#EXTINF:0,BBC EARTH 
+http://103.13.193.194/hls/bbcearth.m3u8
+#EXTINF:0,STAR SPORTS HD
+http://103.13.193.194/hls/stersports1hd.m3u8
+#EXTINF:0,SONY SIX
+http://103.13.193.194/hls/sonysix.m3u8
+#EXTINF:0,GAZI TV
+http://103.13.193.194/hls/Gazi-TV.m3u8
+#EXTINF:0,MN+
+http://103.13.193.194/hls/mn+.m3u8
+#EXTINF:0,STAR WORLD HD
+http://103.13.193.194/hls/star-worldhd.m3u8
+#EXTINF:0,SONY TEN 1
+http://103.13.193.194/hls/sonyten1.m3u8
+#EXTINF:0,ZEE TV
+http://103.13.193.194/hls/zeetv.m3u8
+#EXTINF:0,PTV
+http://103.13.193.194/hls/ptv.m3u8
+#EXTINF:0,STAR PLUS
+http://103.13.193.194/hls/starplus.m3u8
+#EXTINF:0,STAR JALSHA
+http://103.13.193.194/hls/starjalsha.m3u8
+#EXTINF:0,SELECT 2
+http://103.13.193.194/hls/select2.m3u8
+#EXTINF:0,MNX HD
+http://103.13.193.194/hls/mnx-hd.m3u8
+#EXTINF:0,BEIN 1
+http://103.13.193.194/hls/bein1.m3u8
+#EXTINF:0,MADANI
+http://103.13.193.194/hls/madani.m3u8
+#EXTINF:0,MASRANGA
+http://103.13.193.194/hls/masranga.m3u8
+#EXTINF:0,CHANNEL I
+http://103.13.193.194/hls/channeli.m3u8
+#EXTINF:0,SONY MAX
+http://103.13.193.194/hls/sony-maxhd.m3u8
+#EXTINF:0,TRAVEL XP
+http://103.13.193.194/hls/travelxp.m3u8
+#EXTINF:0,ZEE CINEMA 
+http://103.13.193.194/hls/zeecinemahd.m3u8
+#EXTINF:0,9XM
+http://103.13.193.194/hls/9xm.m3u8
+#EXTINF:0,ENTERR 10
+http://103.13.193.194/hls/enterr10.m3u8
+#EXTINF:0, SANGEET BANGLA
+http://103.13.193.194/hls/sangeetbangla.m3u8
+#EXTINF:0,QURQN TV
+http://103.13.193.194/hls/qurqntv.m3u8
+#EXTINF:0,SONY AATH
+http://103.13.193.194/hls/Sony_Aath.m3u8
+#EXTINF:0,INDEPENDENT 
+http://103.13.193.194/hls/indepen.m3u8
+#EXTINF:0,SUNBANGLA
+http://103.13.193.194/hls/sunbangla.m3u8
+#EXTINF:0, COLOUR BANGLA CINEMA
+http://103.13.193.194/hls/colore-bangla-cinema.m3u8
+#EXTINF:0,ZEE BANGLA CINEMA
+http://103.13.193.194/hls/zee-bangla-cinema.m3u8
+#EXTINF:0,STAR SPORTS
+http://103.13.193.194/hls/starsports3.m3u8
+#EXTINF:0,COLOURS CINEPLEX
+http://103.13.193.194/hls/colorscineplex.m3u8
+#EXTINF:0,SOMOY TV
+http://103.13.193.194/hls/somoy.m3u8
+#EXTINF:0,DISNED
+http://103.13.193.194/hls/dis-kid.m3u8
+#EXTINF:0,NICK
+http://103.13.193.194/hls/nick.m3u8
+#EXTINF:0,BBC WORLD
+http://103.13.193.194/hls/bbcworld.m3u8
+#EXTINF:0,KHUSHBOO 
+http://103.13.193.194/hls/khushboo.m3u8

@@ -1,7 +1,6 @@
 
 #EXTM3U
-#EXTINF:0,tvg-logo="http://103.13.193.194/img/Star_Sports_Select_1_HD.jpg" 
-STAR SPORT SELECT
+#EXTINF:1,STAR SPORT SELECT,tvg-logo="http://103.13.193.194/img/Star_Sports_Select_1_HD.jpg"
 http://103.13.193.194/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:0,ZEE BANGLA HD
 http://103.13.193.194/hls/zeebanglahd.m3u8

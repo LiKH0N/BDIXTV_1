@@ -1,0 +1,69 @@
+#EXTM3U
+
+#EXTINF:-1,Star Sports Select 1 HD (Sports)
+http://103.13.193.194/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1,Zee Bangla HD (Movies)
+http://103.13.193.194/hls/zeebanglahd.m3u8
+
+#EXTINF:-1,Jalsha Movies (Movies)
+http://103.13.193.194/hls/jalshamovies.m3u8
+
+#EXTINF:-1,Animal Planet (Documentary)
+http://103.13.193.194/hls/animalplanet.m3u8
+
+#EXTINF:-1,Star Movies HD (Movies)
+http://103.13.193.194/hls/starmovies.m3u8
+
+#EXTINF:-1,Wild (Documentary)
+http://103.13.193.194/hls/wild.m3u8
+
+#EXTINF:-1,Nexus (News)
+http://103.13.193.194/hls/nexus.m3u8
+
+#EXTINF:-1,NGOHD (News)
+http://103.13.193.194/hls/ngohd.m3u8
+
+#EXTINF:-1,Colore TV HD (General)
+http://103.13.193.194/hls/colore-tv-hd.m3u8
+
+#EXTINF:-1,Sony Pix HD (Movies)
+http://103.13.193.194/hls/sonypixhd.m3u8
+
+#EXTINF:-1,Movies Now (Movies)
+http://103.13.193.194/hls/movies-now.m3u8
+
+#EXTINF:-1,Sony Ten 3 (Sports)
+http://103.13.193.194/hls/sonyten3.m3u8
+
+#EXTINF:-1,Star Sports 2 HD (Sports)
+http://103.13.193.194/hls/starsports2.m3u8
+
+#EXTINF:-1,Colors Bangla (General)
+http://103.13.193.194/hls/colorsbangla.m3u8
+
+#EXTINF:-1,Discovery (Documentary)
+http://103.13.193.194/hls/discovery.m3u8
+
+#EXTINF:-1,Sony Ten 2 (Sports)
+http://103.13.193.194/hls/sonyten2.m3u8
+
+#EXTINF:-1,And Pictures (Movies)
+http://103.13.193.194/hls/andpictures.m3u8
+
+#EXTINF:-1,Star Gold (Movies)
+http://103.13.193.194/hls/stargold.m3u8
+
+#EXTINF:-1,Sony YEN (News)
+http://103.13.193.194/hls/sonyen.m3u8
+
+#EXTINF:-1,BBC Earth (Documentary)
+http://103.13.193.194/hls/bbcearth.m3u8
+
+#EXTINF:-1,Ster Sports 1 HD (Sports)
+http://103.13.193.194/hls/stersports1hd.m3u8
+
+#EXTINF:-1,Sony Six (Sports)
+http://103.13.193.194/hls/sonysix.m3u8
+
+#EXTINF:-1,Gazi-TV

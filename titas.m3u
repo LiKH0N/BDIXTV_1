@@ -156,8 +156,8 @@ http://103.13.193.194/hls/enterr10.m3u8
  #EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/starbangla.jpg" group-title="Bangla",Starbangla 
  http://103.13.193.194/hls/starbangla.m3u8
  
- #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/gaanbangla.jpg" group-title="Bangla",Gaan bangla 
-http://12.1.1.1:8082/GaanBangla/tracks-v1a1/mono.m3u8?token=d0b75af444c09c16cbd7a4cc1405433b07a9a934-73da5ea7afa13a10607f88d01298eeaa-1690727643-1690716843
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Bangla",Gaan bangla 
+http://100.64.64.11/Gaan_Bangla_HD/tracks-v1a1/mono.m3u8
 
  #EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sonyyay.jpg" group-title="Cartoon",Sonyway 
 http://103.13.193.194/hls/sonyway.m3u8

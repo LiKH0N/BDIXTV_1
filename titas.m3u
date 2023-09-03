@@ -100,7 +100,7 @@ http://103.13.193.194/hls/ptv.m3u8
 http://103.13.193.194/hls/18.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",  Tsports HD
-http://100.64.64.11/tsports_streamtv/tracks-v1a1/mono.m3u8
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.13.193.194/img/sunbangla.jpg" group-title="Bangla",  Sun Bangla
 http://103.13.193.194/hls/sunbangla.m3u8

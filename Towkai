@@ -4,144 +4,144 @@
 http://100.64.64.11/Duronto_TV_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/global-tv-hd.jpg" GLOBAL TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/global-tv-hd.jpg", GLOBAL TV
 http://100.64.64.11:80/Global_Tv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/t-sports-hd.jpg" T SPORTS
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/t-sports-hd.jpg", T SPORTS
 http://100.64.64.11/tsportstowkaiinternal_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/asian-tv-hd.jpg" ASIAN TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/asian-tv-hd.jpg", ASIAN TV
 http://100.64.64.11:80/Asian_TV_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/atn-bangla-sd.jpg" ATN NEWS
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/atn-bangla-sd.jpg", ATN NEWS
 
 http://100.64.64.11:80/ATN_News_SD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/atn-bangla-sd.jpg" Atn Bangla
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/atn-bangla-sd.jpg", Atn Bangla
 http://100.64.64.11/ATN_Bangla_SD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/bangla-tv-hd.jpg" Bangla Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/bangla-tv-hd.jpg", Bangla Tv
 http://100.64.64.11:80/Bangla_TV_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/bangla-vision-hd.link" Bangla Vision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e0/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/240px-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png", Bangla Vision
 http://100.64.64.11/Bangla_Vision_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/bijoy-tv-hd.jpg" Bijoy Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/bijoy-tv-hd.jpg", Bijoy Tv
 http://100.64.64.11/Bijoy_TV_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/boishakhi-tv-hd.jpg" Boisakhi Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/boishakhi-tv-hd.jpg", Boisakhi Tv
 http://100.64.64.11/Boishakhi_TV_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/btv-world-sd.jpg" Btv world
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/btv-world-sd.jpg", Btv world
 http://100.64.64.11:80/BTV_World_SD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/channel-24-hd.jpg" Channel 24
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/channel-24-hd.jpg", Channel 24
 http://100.64.64.11:80/Channel_24_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/channel-9-hd.jpg" Channel 9
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/channel-9-hd.jpg", Channel 9
 http://100.64.64.11:80/Channel_9_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="1http://mm.towkai.com/uploads/tv_image/sm/channel-i-hd.jpg" Channel I
+#EXTINF:-1 tvg-logo="1http://mm.towkai.com/uploads/tv_image/sm/channel-i-hd.jpg", Channel I
 http://100.64.64.11/Channel_I_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://100.64.64.11:80/DBC_News_HD/tracks-v1a1/mono.m3u8" DBC News
+#EXTINF:-1 tvg-logo="http://100.64.64.11:80/DBC_News_HD/tracks-v1a1/mono.m3u8", DBC News
 http://100.64.64.11:80/DBC_News_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/deepto-tv-hd.jpg" Deepto Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/deepto-tv-hd.jpg", Deepto Tv
 http://100.64.64.11:80/Deepto_TV_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/desh-tv-sd.link" Desh Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/desh-tv-sd.link", Desh Tv
 http://100.64.64.11:80/Desh_TV_SD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/ekattor-tv-hd.jpg" EKATTOR TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/ekattor-tv-hd.jpg", EKATTOR TV
 http://100.64.64.11:80/Ekattor_TV_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/ekushey-tv-sd.jpg" EKUSHEY TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/ekushey-tv-sd.jpg", EKUSHEY TV
 http://100.64.64.11:80/Ekushey_Tv_SD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/gaan-bangla-hd.jpg" GAAN BANGLA
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/gaan-bangla-hd.jpg", GAAN BANGLA
 http://100.64.64.11:80/Gaan_Bangla_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/independent-tv-sd.jpg" INDEPENDENT TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/independent-tv-sd.jpg", INDEPENDENT TV
 http://100.64.64.11/Independent_TV_SD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/jamuna-tv-sd.jpg" JAMUNA TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/jamuna-tv-sd.jpg", JAMUNA TV
 http://100.64.64.11:80/Jamuna_TV_SD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/maasranga-tv-hd.jpg" MASRANGA TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/maasranga-tv-hd.jpg", MASRANGA TV
 http://100.64.64.11/Masranga_TV_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/nagorik-tv-hd.jpg" NAGORIK TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/nagorik-tv-hd.jpg," NAGORIK TV
 http://100.64.64.11:80/Nagorik_TV_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/news-24-hd.jpg" NEWS 24
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/news-24-hd.jpg", NEWS 24
 http://100.64.64.11:80/News_24_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/nexus-tv-hd.jpg" NEXUS TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/nexus-tv-hd.jpg", NEXUS TV
 http://100.64.64.11:80/Nexus_TV_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/ntv-sd.jpg" NTV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/ntv-sd.jpg", NTV
 http://100.64.64.11/NTV_SD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/rtv-hd.jpg"RTV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/rtv-hd.jpg", RTV
 http://100.64.64.11/RTV_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/sa-tv-hd.jpg"SA TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/sa-tv-hd.jpg", SA TV
 http://100.64.64.11/SA_TV_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/somoy-tv-hd.jpg"Somoy Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/somoy-tv-hd.jpg", Somoy Tv
 http://100.64.64.11:80/Somoy_TV_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/sangshad-tv-sd.jpg"Sangsad Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/sangshad-tv-sd.jpg", Sangsad Tv
 http://100.64.64.11/Sangshad_TV_SD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/gtv-hd.jpg" GTV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/gtv-hd.jpg", GTV
 http://100.64.64.11:80/Gazitvtowkaiinternal_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/btv-chattogram-sd.jpg"Btv chattogram 
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/btv-chattogram-sd.jpg", Btv chattogram 
 http://100.64.64.11:80/BTV_Chattogram/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/mohona-tv-hd.jpg"Mohona Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/mohona-tv-hd.jpg", Mohona Tv
 http://100.64.64.11:80/Mohona_Tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/my-tv-hd.jpg" My Tv
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/my-tv-hd.jpg", My Tv
 http://100.64.64.11/My_Tv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/ekhon-tv-hd.link" Ekhon Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/440px-Ekhon_Logo.png", Ekhon Tv
 http://100.64.64.11:80/Ekhon_Tv/tracks-v1a1/mono.m3u8

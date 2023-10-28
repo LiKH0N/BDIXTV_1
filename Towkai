@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/duronto-tv-hd.jpg" DURONTO TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/duronto-tv-hd.jpg", DURONTO TV
 http://100.64.64.11/Duronto_TV_HD/tracks-v1a1/mono.m3u8
 
 

@@ -57,10 +57,10 @@ http://100.64.64.11:80/Channel_9_HD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="1http://mm.towkai.com/uploads/tv_image/sm/channel-i-hd.jpg", Channel I
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/channel-i-hd.jpg", Channel I
 http://100.64.64.11/Channel_I_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://100.64.64.11:80/DBC_News_HD/tracks-v1a1/mono.m3u8", DBC News
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/dbc-news-hd.jpg", DBC News
 http://100.64.64.11:80/DBC_News_HD/tracks-v1a1/mono.m3u8
 
 
@@ -99,7 +99,7 @@ http://100.64.64.11:80/Jamuna_TV_SD/tracks-v1a1/mono.m3u8
 http://100.64.64.11/Masranga_TV_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/nagorik-tv-hd.jpg," NAGORIK TV
+#EXTINF:-1 tvg-logo="http://mm.towkai.com/uploads/tv_image/sm/nagorik-tv-hd.jpg", NAGORIK TV
 http://100.64.64.11:80/Nagorik_TV_HD/tracks-v1a1/mono.m3u8
 
 

@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/starjalsha.jpg" group-title="Bangla",Star Jalsha
+
+http://redforce.live/hls/5053.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/zeebanglahd.jpg" group-title="Bangla",Zee Bangla
+
+http://redforce.live/hls/5048.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/jalsha_movies.jpg" group-title="Bangla",Jalsha Movies
+
+http://redforce.live/hls/5054.m3u8
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/Zee_Bangla_Cinema.jpg" group-title="Bangla",Zee Bangla Cinema
+
+http://redforce.live/hls/5050.m3u8
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/colore-bangla-cinema.jpg" group-title="Bangla",Colors Bangla Cinema
+
+
+http://redforce.live/hls/5033.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/colorsbangla.jpg" group-title="Bangla", Colours Bangla
+
+http://redforce.live/hls/5047.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/add.jpeg" group-title="Bangla",Sony Bangla Cinema
+
+http://redforce.live/hls/5040.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/STAR-BANGLA.jpg" group-title="Bangla", Star Bangla
+
+http://redforce.live/hls/5006.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/enter10bangla.jpg" group-title="Bangla",Enter10 Bangla
+
+http://redforce.live/hls/4036.m3u8
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/sunbangla.jpg" group-title="Bangla",Sun Bangla
+
+http://redforce.live/hls/5051.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/gb.png" group-title="Bangla",Gaan Bangla
+
+http://redforce.live/hls/4018.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/sangitbangla.jpg" group-title="Bangla",Sangeet Bangla
+
+http://redforce.live/hls/4120.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/nagorik.jpg" group-title="Bangla", Nagorik Tv
+
+http://redforce.live/hls/5007.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/GAZI-TV-HD.jpg" group-title="Bangla",Gtv
+
+http://redforce.live/hls/5008.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/71.jpg" group-title="Bangla",Ekattor Tv
+
+http://redforce.live/hls/4017.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/Jamuna.jpg" group-title="Bangla",Jamuna Television 
+ 
+http://redforce.live/hls/4005.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/somoytv.jpg" group-title="Bangla",Somoy Tv
+
+http://redforce.live/hls/4010.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/channeli.jpg" group-title="Bangla",Channel I
+
+http://redforce.live/hls/4016.m3u8

@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/starjalsha.jpg" group-title="Bangla",Star Jalsha
+
+http://redforce.live/hls/5053.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/zeebanglahd.jpg" group-title="Bangla",Zee Bangla
+
+http://redforce.live/hls/5048.m3u8
+
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/jalsha_movies.jpg" group-title="Bangla",Jalsha Movies
+
+http://redforce.live/hls/5054.m3u8
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/Zee_Bangla_Cinema.jpg" group-title="Bangla",Zee Bangla Cinema
+
+http://redforce.live/hls/5050.m3u8
+
+#EXTINF:1- tvg-logo="http://redforce.live/img/GAZI-TV-HD.jpg" group-title="Bangla",Gtv
+
+http://redforce.live/hls/5008.m3u8

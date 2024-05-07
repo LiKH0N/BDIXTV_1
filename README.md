@@ -1,1 +1,4 @@
 LIST OF BDIX CONNECTED IPTV FOR PERSONAL USE. NOTHING MORE😅
+
+<h1>WANT MORE?</h1>
+JOIN: https://t.me/piratestv_ch

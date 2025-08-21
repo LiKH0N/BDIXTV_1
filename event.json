@@ -1,0 +1,21 @@
+{
+  "event_details": {
+    "category": "Wrestling",
+    "category_logo": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/category_logos/Wrestling.png",
+    "event_name": "Monday Night RAW 🥊",
+    "team_a_name": "Monday Night RAW 🥊",
+    "team_b_name": "",
+    "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYB62v-GwSF0Ajal0-i7vgOGCpYs-4KL_9g&usqp=CAU",
+    "team_b_flag": "",
+    "date": "21/08/2025",
+    "time": "09:55:00",
+    "end_date": "21/08/2025",
+    "end_time": "12:30:00",
+    "show_notification": false
+  },
+  "poster_details": {
+    "poster_id": "Monday-Night-RAW-🥊-19082025.png",
+    "poster_url": "https://raw.githubusercontent.com/falconcasthoster/imgen/refs/heads/main/output/Monday-Night-RAW-🥊-19082025.png",
+    "match_type": "single_event"
+  }
+}
